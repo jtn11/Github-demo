@@ -1,1 +1,14 @@
 this is the first commit after initialisation
+
+changes on 2nd branch 
+1 
+2
+3
+4
+5
+
+new changes after pull request 
+change 1 
+change 2 
+change 3 
+change 4
