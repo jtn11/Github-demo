@@ -2,3 +2,10 @@ this is the first commit after initialisation
 
 this would be the code that will be resetting hard 
 this is new changes here 
+
+
+after git reset --hard pushing these changes 
+so basically 
+git reset --soft <hash>  : no changes in working directory , will move in staging area (that is after git add -A)
+git reset --mixed <hash> : no change in working directory , will move outside staging area initial phase
+git reset --hard<hash> : changes working directory as well till the hash provided
