@@ -1,1 +1,3 @@
-this is the first commit after initialisation
+this is the first commit after initialisation 
+
+this would be the code that will be resetting hard 
